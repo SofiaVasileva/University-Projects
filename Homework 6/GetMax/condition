@@ -1,0 +1,5 @@
+GetMax
+
+Create method GetMax() with three integers for parameters which returns the biggest one of them.
+Create a program that takes from the console three integers and use your GetMax() method and after this show on the console the biggest one.
+
