@@ -1,0 +1,9 @@
+Working With Some Integers
+
+Generate 100 random integers in the interval between 0 and 132. Print on the Console these from them that:
+a)	are having even indexes;
+b)	are odd and having odd indexes;
+c)	are divided to 3 without reminder;
+d)	are divided to 7 and have 1 as reminder;
+e)	 are in the interval between 26 and 100;
+f)	are not in the interval between 26 and 100.
