@@ -1,0 +1,12 @@
+GeometryCalculator
+
+Create a program that can calculate the area of two different geometry
+figures:
+      
+Triangle (make research for the formula)
+      
+Square (make research for the formula).
+
+At the start of the program as input you must enter the type of the
+figure (triangle or square) and after this to enter the specified data that
+depends to the type of figure. Use methods to solve this task.
