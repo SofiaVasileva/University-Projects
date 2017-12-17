@@ -1,0 +1,6 @@
+Simple Deck Of Cards
+
+Make a program which print in the Console all cards from one deck with their symbols (hearts, spades, diamonds, clubs).
+Without Jokers in the deck you have total of 52 cards or 13 cards with 4 different symbols.
+Your program must ask “Do you want to see a full deck of cards?” until the user write “yes” in the Console.
+Make internet research about how to print icon symbols in the Console. 
