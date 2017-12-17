@@ -1,0 +1,12 @@
+Bus Ticket Lucky Numbers
+
+A bus transport company want to make lottery for their clients, they have simple rules:
+-	each ticket have unique number made of 6 digits
+-	if the sum of first 3 digits is equal to the sum of second 3 digits your ticket is lucky
+-	example for lucky ticket number is 829955 (8 + 2 + 9 = 9 + 5 + 5)
+-	other tickets must be count as normal.
+Here they need your help, your task is to make a program that:
+-	print all lucky ticket combinations in the Console
+-	counts how much lucky ticket combinations exist
+-	counts how much normal tickets exist
+-	calculate how much is the total of tickets
